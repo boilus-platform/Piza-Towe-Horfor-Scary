@@ -78,9 +78,9 @@ function scr_player_mach1()
 	if (!audio_is_playing(sfx_mach1))
 	    audio_play_sound(sfx_mach1, 1, false)
 	if (momemtum == 0)
-	    sprite_index = spr_player_mach1
+	    sprite_index = spr_player_mach
 	else
-	    sprite_index = spr_player_running
+	    sprite_index = spr_player_mach
 	if (movespeed < 4)
 	    image_speed = 0.35
 	else if (movespeed > 4 && movespeed < 8)

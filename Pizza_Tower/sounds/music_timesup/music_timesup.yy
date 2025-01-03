@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":9.762789,
+  "duration":8.280062,
   "name":"music_timesup",
   "parent":{
     "name":"Music",

@@ -139,5 +139,6 @@ enum states
 	mach3,
 	freefallprep,
 	Sjumpland,
-	stairs
+	stairs,
+	pinohead
 }

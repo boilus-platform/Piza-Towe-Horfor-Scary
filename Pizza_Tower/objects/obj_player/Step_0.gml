@@ -218,6 +218,9 @@ with (obj_player)
         case 71:
             scr_player_stairs()
             break
+        case states.pinohead:
+            scr_player_pinohead()
+            break
     }
 
     if (state != 41)

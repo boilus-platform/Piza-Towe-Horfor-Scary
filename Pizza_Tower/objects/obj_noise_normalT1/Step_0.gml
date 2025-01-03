@@ -4,7 +4,7 @@ if (sprite_index == spr_noise_button && floor(image_index) == (image_number - 1)
     image_xscale = 1
     sprite_index = spr_noise_walk
 }
-if (floor(image_index) == 53)
+if (floor(image_index) == 0)
 {
     global.panic = 1
     obj_player.image_index = 0

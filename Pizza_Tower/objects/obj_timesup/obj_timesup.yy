@@ -36,5 +36,5 @@
     "path":"sprites/spr_timesup/spr_timesup.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

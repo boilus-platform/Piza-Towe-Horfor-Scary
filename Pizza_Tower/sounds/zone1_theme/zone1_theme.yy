@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":380.6041,
+  "duration":128.62692,
   "name":"zone1_theme",
   "parent":{
     "name":"Music",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"zone1_theme.ogg",
+  "soundFile":"zone1_theme.mp3",
   "type":0,
   "volume":1.0,
 }
